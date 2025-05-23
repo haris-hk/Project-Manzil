@@ -541,7 +541,7 @@
           <mxGeometry y="104" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oaThvdK_GvKa7wnYasyh-21" value="Behavior during assessments" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="770" width="245" height="479" as="geometry" />
+          <mxGeometry x="-490" y="453" width="245" height="479" as="geometry" />
         </mxCell>
         <mxCell id="oaThvdK_GvKa7wnYasyh-22" value="Demands attention" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oaThvdK_GvKa7wnYasyh-21">
           <mxGeometry y="26" width="245" height="26" as="geometry" />
@@ -593,16 +593,6 @@
         </mxCell>
         <mxCell id="S8YBjiHrozWV1L3tc8Y--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S8YBjiHrozWV1L3tc8Y--39" target="S8YBjiHrozWV1L3tc8Y--51">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oaThvdK_GvKa7wnYasyh-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=-0.005;entryY=1.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oaThvdK_GvKa7wnYasyh-29" target="oaThvdK_GvKa7wnYasyh-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-350" y="1015" as="sourcePoint" />
-            <mxPoint x="-350" y="385" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-350" y="992" />
-              <mxPoint x="-350" y="404" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="S8YBjiHrozWV1L3tc8Y--56" value="Jaw and Teeth evaluation description" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="1225" width="210" height="208" as="geometry" />
@@ -735,6 +725,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S8YBjiHrozWV1L3tc8Y--96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hcx9xvRhPuMiSi3vXPX2-112" target="S8YBjiHrozWV1L3tc8Y--38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S8YBjiHrozWV1L3tc8Y--97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.466;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oaThvdK_GvKa7wnYasyh-11" target="oaThvdK_GvKa7wnYasyh-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
