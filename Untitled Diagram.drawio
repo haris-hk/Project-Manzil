@@ -35,7 +35,7 @@
         <mxCell id="Hcx9xvRhPuMiSi3vXPX2-68" value="Birth History" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Hcx9xvRhPuMiSi3vXPX2-5" vertex="1">
           <mxGeometry y="156" width="175" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Hcx9xvRhPuMiSi3vXPX2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Hcx9xvRhPuMiSi3vXPX2-5" source="Hcx9xvRhPuMiSi3vXPX2-69" edge="1">
+        <mxCell id="Hcx9xvRhPuMiSi3vXPX2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="Hcx9xvRhPuMiSi3vXPX2-5" source="Hcx9xvRhPuMiSi3vXPX2-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="205" y="-35" as="targetPoint" />
           </mxGeometry>
@@ -212,7 +212,7 @@
         <mxCell id="Hcx9xvRhPuMiSi3vXPX2-81" value="paralysis" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Hcx9xvRhPuMiSi3vXPX2-71" vertex="1">
           <mxGeometry y="182" width="210" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Hcx9xvRhPuMiSi3vXPX2-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Hcx9xvRhPuMiSi3vXPX2-68" target="Hcx9xvRhPuMiSi3vXPX2-71" edge="1">
+        <mxCell id="Hcx9xvRhPuMiSi3vXPX2-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="Hcx9xvRhPuMiSi3vXPX2-68" target="Hcx9xvRhPuMiSi3vXPX2-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hcx9xvRhPuMiSi3vXPX2-83" value="Medical History" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
