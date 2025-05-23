@@ -462,6 +462,27 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oaThvdK_GvKa7wnYasyh-15" value="Educational History" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="577" width="245" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="oaThvdK_GvKa7wnYasyh-16" value="School" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oaThvdK_GvKa7wnYasyh-15">
+          <mxGeometry y="26" width="245" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oaThvdK_GvKa7wnYasyh-17" value="Academic Perfomance" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oaThvdK_GvKa7wnYasyh-15">
+          <mxGeometry y="52" width="245" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oaThvdK_GvKa7wnYasyh-18" value="Does child recieve special services" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oaThvdK_GvKa7wnYasyh-15">
+          <mxGeometry y="78" width="245" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oaThvdK_GvKa7wnYasyh-19" value="Childs intercation with others" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oaThvdK_GvKa7wnYasyh-15">
+          <mxGeometry y="105" width="245" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oaThvdK_GvKa7wnYasyh-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.453;entryY=1.229;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.448;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oaThvdK_GvKa7wnYasyh-15" target="oaThvdK_GvKa7wnYasyh-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="505" as="sourcePoint" />
+            <mxPoint x="540" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
